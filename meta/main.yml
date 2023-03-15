@@ -1,7 +1,8 @@
 ---
 galaxy_info:
   role_name: test
-  author: do1jlr
+  author: l3d
+  namespace: do1jlr
   description: Please ignore, just a test
   license: MIT
   min_ansible_version: "2.11"
