@@ -18,5 +18,5 @@ jobs:
       - name: 'release on galaxy'
         uses: robertdebock/galaxy-action@1.2.1
         with:
-          galaxy_api_key: ${{ secrets.galaxy_api_key }}
+          galaxy_api_key: "${{ secrets.GALAXY_API_KEY }}"
           git_branch: 'main'
