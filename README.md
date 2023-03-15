@@ -3,6 +3,12 @@ Role Name
 
 This is just a test, please ignore!
 
+```bash
+ansible-galaxy install do1jlr.test
+```
+
+https://galaxy.ansible.com/do1jlr/test
+
 Requirements
 ------------
 
