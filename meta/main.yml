@@ -1,0 +1,23 @@
+---
+galaxy_info:
+  role_name: test
+  author: do1jlr
+  description: Please ignore, just a test
+  license: MIT
+  min_ansible_version: "2.11"
+  platforms:
+    - name: Debian
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+    - name: Fedora
+      versions:
+        - all
+    - name: EL
+      versions:
+        - all
+  galaxy_tags:
+    - test
+dependencies: []

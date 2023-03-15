@@ -1,0 +1,14 @@
+---
+- name: Hello World
+  ansible.builtin.debug:
+    msg: "Hello World"
+
+- name: Just a Test
+  ansible.builtin.debug:
+    msg: "This is just a test!"
+    verbosity: 1
+
+- name: It is a Test
+  ansible.builtin.debug:
+    msg: "Srsly guys, i's just a test. Go away!"
+    verbosity: 2
