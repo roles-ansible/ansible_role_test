@@ -4,10 +4,10 @@ Role Name
 This is just a test, please ignore!
 
 ```bash
-ansible-galaxy install do1jlr.test
+ansible-galaxy install l3d.test
 ```
 
-https://galaxy.ansible.com/do1jlr/test
+https://galaxy.ansible.com/l3d/test
 https://galaxy.ansible.com/l3d/test
 
 Requirements
