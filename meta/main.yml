@@ -1,8 +1,8 @@
 ---
 galaxy_info:
   role_name: test
-  author: l3d
-  namespace: l3d
+  author: do1jlr
+  namespace: roles-ansible
   description: Please ignore this role, it is just a test
   license: MIT
   min_ansible_version: "2.13"
