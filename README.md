@@ -7,8 +7,7 @@ This is just a test, please ignore!
 ansible-galaxy install l3d.test
 ```
 
-[https://galaxy.ansible.com/roles-ansible/test](https://galaxy.ansible.com/ui/standalone/roles/roles-ansible/test/)
-https://galaxy.ansible.com/l3d/test
+[l3d.test on galaxy](https://galaxy.ansible.com/ui/standalone/roles/l3d/test/)
 
 Requirements
 ------------
