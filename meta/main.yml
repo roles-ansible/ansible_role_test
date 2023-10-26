@@ -19,7 +19,7 @@ galaxy_info:
     - test
     - linux
 dependencies:
-  - role: geerlingguy.nodejs
+  - role: "geerlingguy.nodejs"
     tags: ["nodejs"]
     vars:
       nodejs_version: "16.x"
