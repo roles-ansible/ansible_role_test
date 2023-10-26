@@ -17,3 +17,4 @@ jobs:
         uses: ansible-actions/ansible-galaxy-action@v1.0.1
         with:
           galaxy_api_key: ${{ secrets.galaxy_api_key }}
+          git_branch: 'v0.4.2'
