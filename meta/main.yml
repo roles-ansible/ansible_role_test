@@ -18,3 +18,10 @@ galaxy_info:
   galaxy_tags:
     - test
     - linux
+dependencies:
+  - role: geerlingguy.nodejs
+    tags: ["nodejs"]
+    vars:
+      nodejs_version: "16.x"
+    when: true
+    ignore_errors: "{{ ansible_check_mode }}"
