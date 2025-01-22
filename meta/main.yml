@@ -5,7 +5,7 @@ galaxy_info:
   namespace: l3d
   description: Please ignore this role, it is just a test
   license: MIT
-  min_ansible_version: "2.13"
+  min_ansible_version: "2.14"
   platforms:
     - name: Debian
       versions: ['all']
